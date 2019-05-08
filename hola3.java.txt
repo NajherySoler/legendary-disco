@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HOLA MUNDO
+=======
+hola
+>>>>>>> 60ede9e188c24a2bd77ac8f3f95c632b2e7ed4aa
